@@ -82,6 +82,8 @@ Now, can you estimate how your pipeline scales? In terms of circuit depth, circu
 
 Now, you're ready to run the project!
 
+In `notebooks/problem-setting.ipynb`, the problem is expressed in code.
+
 ## References
 
 1. Brassard, G., Høyer, P., Mosca, M. & Tapp, A. _Quantum Amplitude Amplification and Estimation_. (2000). [↑](#footnote-ref-1)
