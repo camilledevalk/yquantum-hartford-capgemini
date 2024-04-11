@@ -51,7 +51,7 @@ The question now is how to load the value of interest in the amplitude. There ex
 
 ## The challenge
 
-Your challenge is to create a toy example Quantum Computing Monte Carlo pipeline (e.g., using Qiskit/Cirq) to estimate risk and subsequently estimate how much reserves the insurer should keep.
+Your challenge is to create a toy example Quantum Computing Monte Carlo pipeline (e.g., using Qiskit/TKET) to estimate risk and subsequently estimate how much reserves the insurer should keep.
 
 In that pipeline, focus on the state preparation method and try to come up with a method that fits the NISQ constraints, i.e., relatively many qubits, with relatively poor quality. I.e., use ancilla qubits to decrease the circuit depth. (hint: which gates can a quantum computer execute?)
 
@@ -96,3 +96,4 @@ In `notebooks/problem-setting.ipynb`, the problem is expressed in code.
 
 5. Herbert, S. The Problem with Grover-Rudolph State Preparation for Quantum Monte-Carlo. _Phys. Rev. E_ **103**, 063302 (2021). [↑](#footnote-ref-5)
 
+6. Akhalwaya, I. Y. _et al._ A Modular Engine for Quantum Monte Carlo Integration. Preprint at http://arxiv.org/abs/2308.06081 (2023).
